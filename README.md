@@ -3,7 +3,7 @@
 If you want the source code you can download it from [Releases](https://github.com/SkillSageDev/TicTacToe/releases/tag/Latest) or use  `git` :
 
 ```bash
-git clone https://github.com/SkillSageDev/TicTacToe.git
+git clone https://github.com/SkillSageDev/tictactio-python.git
 ```
 
 - then run TicTacTio.exe to start playing
